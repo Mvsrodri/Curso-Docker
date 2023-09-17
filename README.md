@@ -21,5 +21,4 @@ $ docker images
 # Rodar aplicação
 $ docker run Hello-World
 
-Rodando na porta 3000
 ```
